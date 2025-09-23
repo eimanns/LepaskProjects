@@ -1,0 +1,9 @@
+# **Update Logs**
+
+### ✅ Added / Improved
+- Rewrote several scripts to make them cleaner and more organized  
+- Optimized existing functions for smoother performance  
+
+### ❌ Removed
+- Removed redundant or similar scripts  
+- Deleted duplicate `stock` functions  
