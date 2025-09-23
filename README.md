@@ -1,4 +1,4 @@
-# © LepaskProjects
+# © LepaksProjects
 
 ![Alt text](https://i.postimg.cc/RhfjFNHB/Lepaks-Projects.png)
 
