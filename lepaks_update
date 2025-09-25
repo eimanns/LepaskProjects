@@ -1,4 +1,4 @@
-# **Update Logs**
+# Update Logs — 23/9/2025
 
 ### ✅ Added / Improved
 - Rewrote several scripts to make them cleaner and more organized  
@@ -6,4 +6,12 @@
 
 ### ❌ Removed
 - Removed redundant or similar scripts  
-- Deleted duplicate `stock` functions  
+- Deleted duplicate `stock` functions
+
+# **Update Logs — 25/9/2025**
+
+### ✅ Added / Improved
+- Improve Scripts Jobs
+
+### ❌ Removed
+- Remove duplicate function
